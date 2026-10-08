@@ -1889,6 +1889,11 @@ a {
 }
 .cid-vxrgIkKzNr {
   display: flex;
+  background-image: url("../../../assets/images/image-864x486.jpg");
+}
+.cid-vxrgIkKzNr .mbr-overlay {
+  background-color: #232323;
+  opacity: 0.5;
 }
 .cid-vxrgIkKzNr .mbr-fallback-image.disabled {
   display: none;
@@ -1901,7 +1906,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-vxrgIkKzNr .content-wrap {
   padding: 5rem 1rem;
